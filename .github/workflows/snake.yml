@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -8,12 +8,20 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write # ✅ Needed for pushing to output branch
+
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Generate Snake files
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -21,6 +29,17 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Create output branch if it doesn't exist
+        run: |
+          git fetch origin
+          if ! git show-ref --verify --quiet refs/heads/output; then
+            git checkout --orphan output
+            git reset --hard
+            git commit --allow-empty -m "Initialize output branch"
+            git push origin output
+            git checkout main
+          fi
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
