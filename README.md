@@ -5,9 +5,9 @@
 
 ### 💡 About Me
 - 🎮 Gamer | 🌐 Web Developer | 🔐 White Hat Hacker  
-- 💻 Currently working on: **Gaming Websites, Web3, and Security Tools**  
-- 🌱 Learning: **Blockchain Security & Advanced PHP**  
-- 🚀 Building: **Real-time Apps, Gamified Platforms, and Custom APIs**  
+- 💻 Currently working on: **My Gaming Website, and Other Backend Projects**  
+- 🌱 Learning: **Advanced Frontend DEV, Blockchain Security & Advanced PHP**  
+- 🚀 Building: **Real-time WEB Apps, Gamified Platforms, and Custom APIs**  
 - ⚡ Fun Fact: I code faster when there’s gaming soundtracks in the background 🎧  
 
 ---
