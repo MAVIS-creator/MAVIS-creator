@@ -1,9 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F700&width=800&lines=Hey%2C+I'm+Mavis+👋;Gamer+%7C+Web+Developer+%7C+Tech+Enthusiast;I+build+cool+projects+%26+break+limits)](https://git.io/typing-svg)
 
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-
 ---
 
 ### 💡 About Me
@@ -17,7 +14,7 @@
 
 ### 🛠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,sqlite,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,react,tailwind,mysql,sqlite,git,github,docker" />
 </p>
 
 ---
@@ -37,5 +34,9 @@
 
 ---
 
-![Snake animation](https://github.com/MAVIS-creator/MAVIS-creator/blob/output/github-contribution-grid-snake.svg)
-
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MAVIS-creator/MAVIS-creator/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MAVIS-creator/MAVIS-creator/blob/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/MAVIS-creator/MAVIS-creator/blob/output/ocean.gif">
+</picture>
