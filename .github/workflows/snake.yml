@@ -21,6 +21,11 @@ jobs:
         with:
           persist-credentials: false
 
+      - name: Set Git user
+        run: |
+          git config --global user.name "MAVIS-creator"
+          git config --global user.email "mavisenquires@gmail.com"
+
       - name: Generate Snake files
         uses: Platane/snk@v3
         with:
