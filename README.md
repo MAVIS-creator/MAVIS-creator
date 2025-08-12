@@ -17,7 +17,7 @@
 
 ### 🛠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,react,tailwind,mysql,sqlite,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,sqlite,git,github" />
 </p>
 
 ---
@@ -37,5 +37,6 @@
 
 ---
 
-<!-- Snake Animation -->
-![Snake animation](https://github.com/MAVIS-creator/MAVIS-creator/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]
+(https://github.com/MAVIS-creator/MAVIS-creator/blob/output/github-contribution-grid-snake.svg)
+
