@@ -1,5 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F700&width=800&lines=Hey%2C+I'm+Mavis+👋;Gamer+%7C+Web+Developer+%7C+Tech+Enthusiast;I+build+cool+projects+%26+break+limits)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F700&width=800&lines=Hey%2C+I'm+Mavis+👋;Gamer+%7C+Web+Developer+%7C+Tech+Enthusiast;I%5B...%5D)]()
 
 ---
 
@@ -8,7 +7,7 @@
 - 💻 Currently working on: **My Gaming Website, and Other Backend Projects**  
 - 🌱 Learning: **Advanced Frontend DEV, Blockchain Security & Advanced PHP**  
 - 🚀 Building: **Real-time WEB Apps, Gamified Platforms, and Custom APIs**  
-- ⚡ Fun Fact: I code faster when there’s gaming soundtracks in the background 🎧  
+- ⚡ Fun Fact: I code faster when there’s gaming soundtracks in the background 🎧
 
 ---
 
@@ -22,7 +21,7 @@
 ### 📊 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=MAVIS-creator&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAVIS-creator&theme=tokyonight" height="160px"/>
+  <!-- Removed streak-stats.herokuapp.com because that service is commonly offline; re-add or replace if you have an alternative -->
 </p>
 
 ---
@@ -36,7 +35,7 @@
 
 ### 🐍 Contribution Snake
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MAVIS-creator/MAVIS-creator/blob/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MAVIS-creator/MAVIS-creator/blob/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/MAVIS-creator/MAVIS-creator/blob/output/ocean.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="./output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="./output/ocean.gif">
 </picture>
