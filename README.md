@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="GIF_BANNER_URL" width="100%" />
+  <img src="banner.gif" width="100%" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7D900&width=850&lines=Hey%2C+I'm+Mavis+👋;Gamer+%7C+Web+Developer+%7C+Security+Learner;Building+Smart+Web+Apps+%26+Modern+Platforms;Breaking+Limits+Every+Single+Day)]()
