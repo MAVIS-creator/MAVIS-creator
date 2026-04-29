@@ -92,7 +92,7 @@ location:   Online & in the Matrix
 
 | 🗂 Project | 💬 Description | 🔧 Stack |
 |---|---|---|
-| [🎮 Mavis Gaming Site](https://github.com/MAVIS-creator/mavis-gaming-site) | Dynamic gaming platform with admin panel | PHP, MySQL, CSS |
+| [🎮 Mavis Gaming Site](https://github.com/MAVIS-creator/mavis) | Dynamic gaming platform with admin panel | PHP, MySQL, CSS |
 | [🔐 Blockchain Attendance](https://github.com/MAVIS-creator/Blockchain-Based-Attendance-System) | Tamper-proof attendance with private blockchain | PHP, Blockchain |
 | [🐍 Python Bots](https://github.com/MAVIS-creator/Python-bots) | Automation & utility bots | Python |
 | [🔍 Data Breach Tool](https://github.com/MAVIS-creator/DataBreachTool) | Security research & breach analysis tool | Python |
